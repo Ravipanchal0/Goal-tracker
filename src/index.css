@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.flex-center {
+  @apply flex items-center justify-center;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+  scrollbar-width: none; /* For Firefox */
+}
