@@ -15,8 +15,6 @@ The UI is styled with **TailwindCSS** and built with **Vite** for lightning-fast
 
 ---
 
----
-
 ## 🚀 Tech Stack
 
 - ⚛️ [React](https://react.dev/) – UI library
@@ -28,7 +26,7 @@ The UI is styled with **TailwindCSS** and built with **Vite** for lightning-fast
 
 ## 📂 Project Structure
 
----
+```
 
 src/
 ├── assets/ # static assets (images, icons, etc.)
@@ -40,7 +38,7 @@ src/
 ├── main.tsx # React DOM entry
 └── index.css # Tailwind base styles
 
----
+```
 
 ---
 
@@ -65,5 +63,3 @@ src/
 
 Feel free to fork this repo and open a pull request with improvements!
 Bug reports and feature requests are welcome in the Issues tab.
-
----
